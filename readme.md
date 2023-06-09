@@ -4,9 +4,7 @@
 ---
 - 🎓 I’m currently specializing on **[NextJS](https://nextjs.org)**
 
-- 🔭 I’m currently working on **[Dandere (discord bot)](https://github.com/matiasfacello/dandere)** and in **[Shory (private - more soon)](https://github.com/matiasfacello/shory)**
-
-- 🌱 I’m currently learning **SEO and Marketing**
+- 🔭 I’m currently working on **[Dandere (discord bot)](https://github.com/matiasfacello/dandere)** and in **[Shory (NextJS App)](https://github.com/matiasfacello/shory)**
 
 - 📝 I regularly write articles on **[www.pristineshock.com](https://www.pristineshock.com)**
 
